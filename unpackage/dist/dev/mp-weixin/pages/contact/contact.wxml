@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="http://www.itcast.cn/2018czydz/images/gywmban.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话: 400-618-9090 ( 点击拨打 )</view><view>地址：天津市和平区滨江道170号米莱欧百货4层1号商铺</view></view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}"></map></view>
